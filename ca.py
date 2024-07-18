@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-num =110
+num =182
 
 rowsize = 300
 evolution = 300
